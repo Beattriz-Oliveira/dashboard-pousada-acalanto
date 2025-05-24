@@ -105,7 +105,7 @@ Entidades principais:
 **Beattriz Oliveira**  
 🎓 Estudante de Arquitetura de Dados e Banco de Dados  
 📧 Beattrizsantana1452@gmail.com
-🌐 [Beattriz Sant'ana](www.linkedin.com/in/beattriz-sant-ana)
+🌐 [Beattriz Sant'ana](https://www.linkedin.com/in/beattriz-sant-ana)
 
 ---
 
