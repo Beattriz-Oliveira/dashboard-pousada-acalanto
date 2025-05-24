@@ -112,4 +112,4 @@ Entidades principais:
 ## 📝 Licença
 
 Este projeto está licenciado sob os termos da **MIT License**.  
-Feito com 💙 por Beattriz – focada em dados, estrutura e boas práticas!
+Feito com ❤️ por Beattriz – focada em dados, estrutura e boas práticas!
