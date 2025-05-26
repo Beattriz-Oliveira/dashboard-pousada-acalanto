@@ -63,7 +63,7 @@ Entidades principais:
 ## 📊 Visualizações no Power BI
 
 ### 📌 Página Inicial
-<img src="imagens/Acalanto_início.pgn" width="600"/>
+<img src="imagens/Acalanto_Início.png" width="600"/>
 
 ### 🏨 Pousada
 <img src="imagens/Acalanto_Pousada.png" width="600"/>
