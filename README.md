@@ -1,6 +1,6 @@
 # 🚀✅ Dashboard Pousada Acalanto – Projeto de Arquitetura de Dados ✅🚀
 
-## 🧾 Descrição do Entregável
+## 🧾 Descrição do Projeto
 
 Este projeto simula a **arquitetura de dados de uma pousada**, estruturando desde o banco de dados relacional até a disponibilização dos dados em um painel analítico no Power BI. O foco principal está na **modelagem eficiente**, **automação da carga de dados** e **integração entre camadas da arquitetura**.
 
