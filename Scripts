@@ -1,0 +1,10 @@
+---
+
+### 🗄️ Base de Dados e Scripts
+
+Os scripts de criação do banco de dados e geração de dados automatizados estão incluídos neste repositório:
+
+- `/database/criar_banco.sql` → Criação da estrutura relacional em MySQL
+- `/scripts/gerar_dados.py` → Script Python com Faker para preencher os dados automaticamente
+
+A modelagem foi desenvolvida com foco em integridade referencial, flexibilidade de consulta e realismo dos dados.
