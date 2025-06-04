@@ -100,7 +100,7 @@ Entidades principais:
 
 ---
 
-## 🦸‍♀️ Autora
+## 👩🏽‍💻 Autora
 
 **Beattriz Oliveira**  
 🎓 Estudante de Arquitetura de Dados e Banco de Dados  
