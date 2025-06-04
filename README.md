@@ -106,10 +106,3 @@ Entidades principais:
 🎓 Estudante de Arquitetura de Dados e Banco de Dados  
 📧 Beattrizsantana1452@gmail.com
 🌐 [Beattriz Sant'ana](https://www.linkedin.com/in/beattriz-sant-ana)
-
----
-
-## 📝 Licença
-
-Este projeto está licenciado sob os termos da **MIT License**.  
-Feito com ❤️ por Beattriz – focada em dados, estrutura e boas práticas!
