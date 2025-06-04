@@ -103,6 +103,6 @@ Entidades principais:
 ## 👩🏽‍💻 Autora
 
 **Beattriz Oliveira**  
-🎓 Estudante de Arquitetura de Dados e Banco de Dados  
+🎓 Estudante de Arquitetura de Banco de Dados  
 📧 Beattrizsantana1452@gmail.com
 🌐 [Beattriz Sant'ana](https://www.linkedin.com/in/beattriz-sant-ana)
