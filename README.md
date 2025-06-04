@@ -65,7 +65,7 @@ Entidades principais:
 ### 📌 Página Inicial
 <img src="imagens/Acalanto_Início.png" width="600"/>
 
-### 🏨 Pousada
+### 🏤 Pousada
 <img src="imagens/Acalanto_Pousada.png" width="600"/>
 
 ### 🛍️ Loja
